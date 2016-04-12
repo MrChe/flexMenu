@@ -6,7 +6,7 @@
     "Ryan DeBeasi <hi@ryandebeasi.com>"
   ],
   "description": "FlexMenu lets you create menu bars that automatically collapse into a drop-down to fit the space available.",
-  "main": "flexmenu.js",
+  "main": "./flexmenu.js",
   "keywords": [
     "menu",
     "responsive",
