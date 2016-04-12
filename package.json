@@ -22,8 +22,7 @@
   ],
   "dependencies": {
     "jquery": ">1.7.0"
-  }
-  "main": "flexmenu.js",
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
